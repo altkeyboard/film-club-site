@@ -2,7 +2,7 @@
 layout: page
 title: Film Club
 ---
-
+<link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
 Welcome to Film Club — a student community for filmmakers and animators. We create short films, share works-in-progress, and give kind, helpful feedback.
 <div class="filmstrip" aria-hidden="true"></div>
 ## What we do
