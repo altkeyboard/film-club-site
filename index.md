@@ -3,19 +3,24 @@ layout: page
 title: Film Club
 ---
 
-Welcome to Film Club! We watch age-appropriate films, learn how movies are made, and talk about what we notice—story, characters, music, camera shots, and editing.
-
-## When we meet
-**Day/Time:** (Add day + time)  
-**Location:** (Add school room only if approved/public)
+Welcome to Film Club — a student community for filmmakers and animators. We create short films, share works-in-progress, and give kind, helpful feedback.
 
 ## What we do
-- Watch short clips and full movies (school-approved)
-- Learn film vocabulary (shots, scenes, soundtrack, editing)
-- Try mini-projects (storyboards, 1-minute films, reviews)
+- **Screenings:** Students share short films/animations (“films”)
+- **Feedback:** We practice respectful critique and creative problem-solving
+- **Challenges:** Optional prompts to inspire new projects
+- **Skills:** Storytelling, camera, sound, editing, animation, and teamwork
 
-## This month’s theme
-**Theme:** (Example: “Animation & Visual Storytelling”)
+## How to participate
+1. Make a short film (any style: live action, stop motion, animation, etc.).
+2. Submit it using the guidelines below.
+3. Come to a screening meeting to share and discuss.
 
-## How to join
-Ask your teacher/advisor or sign up here: (link to school-approved sign-up form)
+## Links
+- [Showcase](pages/showcase)
+- [Submit a Film](pages/submit)
+- [Events](pages/events)
+- [Resources](pages/resources)
+- [Guidelines](pages/guidelines)
+
+*Note: This site is managed by the club advisor. Please do not share personal information in public submissions.*
