@@ -19,6 +19,7 @@ Welcome to Film Club — a student community for filmmakers and animators. We cr
 ## Links
 - [Showcase](pages/showcase)
 - [Submit a Film](pages/submit)
+- [Poster Gallery](pages/poster-gallery)
 - [Events](pages/events)
 - [Resources](pages/resources)
 - [Guidelines](pages/guidelines)
