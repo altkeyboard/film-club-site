@@ -19,10 +19,6 @@ Below are student films shared with Film Club (with permission).
 ## Past Screenings
 (You can add sections like “January 2026,” “February 2026,” etc.)
 
-<hr>
-
-<h3 style="text-align: center;">This Month’s Poster</h3>
-
 <div style="
   max-width: 500px;
   margin: 30px auto;
