@@ -8,7 +8,7 @@
   /* The strip */
   background:
     /* sprocket holes - top row */
-    radial-gradient(circle, rgba(255,255,255,0.9) 40%, transparent 41%) 10px 0px / 26px 26px repeat-x,
+    radial-gradient(circle, rgba(255,255,255,0.9) 40%, transparent 41%) 10px 2px / 26px 26px repeat-x,
     /* sprocket holes - bottom row */
     radial-gradient(circle, rgba(255,255,255,0.9) 40%, transparent 41%) 10px 40px / 26px 26px repeat-x,
     /* strip body */
