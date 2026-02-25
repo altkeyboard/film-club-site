@@ -18,6 +18,7 @@ Below are student films shared with Film Club (with permission).
 
 ## Past Screenings
 (You can add sections like “January 2026,” “February 2026,” etc.)
+
 <div style="text-align: right; margin-top: 40px;">
   <img src="{{ '/assets/posters/black-retro-movie-night-poster.png' | relative_url }}"
        alt="Black Retro Movie Night Poster"
